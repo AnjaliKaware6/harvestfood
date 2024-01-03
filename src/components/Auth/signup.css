@@ -13,7 +13,7 @@
     margin: 0px auto;
     width: 400px;
     margin-top: 100px;
-    border-top: 5px solid #4F7942;
+    border-top: 5px solid #e85a4f;
 
 }
 .main_container_signup .header
@@ -23,7 +23,7 @@
 .main_container_signup .header h2
 {
    text-align: center;
-   color: #4F7942;
+   color: #e85a4f;
    font-size: 18px;
    text-transform: uppercase;
    font-weight: 600;
@@ -40,9 +40,9 @@
     padding: 10px 20px;
     margin-left: 30px;
     outline: none;
-    border:#4F7942;
+    border:#e85a4f;
     border-radius: 5px;
-    border: 1px solid #4F7942;
+    border: 1px solid #e85a4f;
 
 }
 .main_container_signup .box select
@@ -51,9 +51,9 @@
     padding: 10px 20px;
     margin-left: 30px;
     outline: none;
-    border:#4F7942;
+    border:#e85a4f;
     border-radius: 5px;
-    border: 1px solid #4F7942;
+    border: 1px solid #e85a4f;
 
 }
 
@@ -61,7 +61,7 @@
 {
     margin-top: 15px;
  font-size: 12px;
- color:#4F7942;
+ color:#e85a4f;
  margin-left: 30px;
  font-weight: 600;
 }
@@ -72,7 +72,7 @@
     padding: 10px 30px;
     border: none;
     outline: none;
-    background: #4F7942;
+    background: #e85a4f;
     border-radius: 5px;
     color: #ffff;
     font-weight: 600;
